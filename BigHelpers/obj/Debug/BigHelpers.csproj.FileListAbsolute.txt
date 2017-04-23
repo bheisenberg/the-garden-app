@@ -1,0 +1,16 @@
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\obj\Debug\BigHelpers.Form1.resources
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\obj\Debug\BigHelpers.NewPost.resources
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\obj\Debug\BigHelpers.NewPostForm.resources
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\obj\Debug\BigHelpers.Properties.Resources.resources
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\obj\Debug\BigHelpers.Request.resources
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\obj\Debug\BigHelpers.MainView.resources
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\obj\Debug\BigHelpers.csproj.GenerateResource.Cache
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\bin\Debug\BigHelpers.exe.config
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\bin\Debug\BigHelpers.exe
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\bin\Debug\BigHelpers.pdb
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\obj\Debug\BigHelpers.exe
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\obj\Debug\BigHelpers.pdb
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\obj\Debug\BigHelpers.csprojResolveAssemblyReference.cache
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\bin\Debug\MySql.Data.dll
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\obj\Debug\BigHelpers.CreateAccount.resources
+C:\Users\Dana\Source\Repos\NeuralTextCategorization\BigHelpers\BigHelpers\obj\Debug\BigHelpers.SignIn.resources
